@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Guillermo</h1>
 <h3 align="center">I'm a young and passionate Full Stack developer from Spain. As a Full Stack Developer, I focus on creating efficient, scalable, and user-centric applications. With a solid background in both frontend and backend technologies, I am experienced in crafting responsive and dynamic web applications that meet user needs.</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/GuillermoDMM](https://github.com/GuillermoDMM)
-
 - 📫 How to reach me **guillermodmm2107@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
